@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+         <div id="1" style="background-color: gray; height: 400px; width: 100%;">
+             hello 
+        </div>
+        
+        <div id="2" style="background-color: lightblue; height: 400px; width: 100%;">
+           hi
+        </div>
+        <div id="1" style="background-color: rgb(99, 242, 144); height: 400px; width: 100%;">
+         ok
+        </div>
+</body>
+</html>
