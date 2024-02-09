@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+        <table border="2" height="300" width="400" align="center">
+
+               <thead>
+                      <tr>
+                          <th>
+                              name 
+                          </th>
+                          <th>
+                            roll
+                          </th>
+                          <th colspan="2">
+                             phone
+                          </th>
+                      </tr>
+               </thead>
+               <tbody>
+                <tr>
+                      <td>ujjal</td>
+                      <td>1</td>
+                      <td>017</td>
+                      <td rowspan="2">018</td>
+                </tr>
+
+                <tr>
+                    <td>mithu</td>
+                    <td>2</td>
+                    <td>016</td>
+                    
+              </tr>
+
+              <tr>
+                <td>Abhijit</td>
+                <td>3</td>
+                <td>015</td>
+                <td>019</td>
+          </tr>
+        </table>
+</body>
+</html>
