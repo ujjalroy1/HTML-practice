@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <label for="first name" required="">First name</label>
+        <input type="text" name="fullname" id="fullname"><br><br>
+        <label for="last name">last name</label>
+        <input type="text" name="fullname" id="fullname"><br><br>
+    </div>
+
+    <div>
+
+         <label>Email : </label><input type="email" name="email" id="email"><br><br>
+
+    </div>
+    <div>
+
+        <label>passward : </label><input type="password" name="passwar" id="passward"><br><br>
+
+   </div>
+
+   <div>
+        <label>Date of birth</label><input type="date" name="date" id="date"><br><br>
+    </div>
+    <div>
+        <label>File upload</label><input type="file" name="file" id="file">
+    </div>
+    <div>
+        <label>Gender</label><input type="radio" name="gender" id="gender" value="male">male
+        <input type="radio" name="gender" id="gender" value="female">female<br>
+    </div>
+     <div>
+           <label>religion</label> <input type="checkbox">hindu <input type="checkbox">muslim <input type="checkbox">other
+
+
+        </div>
+        <div>
+             <label>Department</label>
+             <select>
+                <option value="CSE">CSE</option>
+               <option value="EEE">EEE</select>
+             
+
+            </select>
+        </div>
+        <div>
+            <label>Department</label>
+            <textarea cols="50" rows="50"></textarea>
+
+       </div>
+       <div>
+        <input type="submit" value="sing up">
+        <input type="reset" value="reset">
+       </div>
+</body>
+
+</html>
