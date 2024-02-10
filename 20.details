@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+         <details>
+                 <summary>code</summary>
+                 #include<bits/stdc++.h><br>
+                 using namespace std;<br>
+                 int main()<br>
+                 {
+                    cout<<"Hello\n";<br>
+                    return 0;<br>
+
+                 }<br>
+         </details>
+
+</body>
+</html>
